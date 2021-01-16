@@ -16,11 +16,11 @@ Simply extract or download the project, then open the index.html file in your br
 
 ## Usage example
 
-Currency : USD
-Item Price  : 950
-Shipping Cost : 100
-Percentage Added (%): 50
-Product Cost : 1100.00
+Currency : USD \
+Item Price  : 950 \
+Shipping Cost : 100 \
+Percentage Added (%): 50 \
+Product Cost : 1100.00 \
 Selling Price : 1650.00
 
 _See sample demo here [Link][demo]._
