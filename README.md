@@ -34,7 +34,7 @@ The code is easily cuztomizable to suite your own specific need, uses HTML, Boot
 
 ## Meta
 
-Abdoulie Kassama – [@abdouliekassama](https://twitter.com/abdouliekassama) – kassamadeveloper@gmail.com
+Abdoulie Kassama – [@abdouliekassama](https://twitter.com/abdouliekassama) – abdoulie.s.kassama@gmail.com
 
 Distributed under the Creative Commons license. 
 
