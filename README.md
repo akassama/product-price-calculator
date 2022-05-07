@@ -38,8 +38,8 @@ Abdoulie Kassama – [@abdouliekassama](https://twitter.com/abdouliekassama) –
 
 Distributed under the Creative Commons license. 
 
-[https://github.com/akassama/product-price-calculator](https://github.com/akassama/)
+[akassama] https://github.com/akassama/
 
 
 <!-- Markdown link & img dfn's -->
-[demo]: https://akassama.github.io/product-price-calculator/
+[demo] https://akassama.github.io/product-price-calculator/
